@@ -8,12 +8,12 @@
 
 Branch dev-scriptable contains script for creation APOD's widget on iPhone:
 
-<img width="414" alt="Scriptable Widget on iPhone 11" src="https://github.com/andrei-roh/andrei-roh/assets/65450338/f37e2810-8ae2-4c98-8821-38f42854acb4">
+<img width="212" alt="Scriptable Widget on iPhone 11" src="https://github.com/andrei-roh/andrei-roh/assets/65450338/f37e2810-8ae2-4c98-8821-38f42854acb4">
 
 ### Web Application
 
 Branch dev-web contains APOD web application. After clicking on the widget, the application will open on browser:
 
-<img width="414" alt="Astronomy Picture of the Day web application" src="https://github.com/andrei-roh/andrei-roh/assets/65450338/40b61437-6f29-4dc5-926a-2f1be816aa6c">
+<img width="212" alt="Astronomy Picture of the Day web application" src="https://github.com/andrei-roh/andrei-roh/assets/65450338/40b61437-6f29-4dc5-926a-2f1be816aa6c">
 
 [APOD Web App Build](https://andrei-roh.github.io/andrei-roh/)
